@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C66B838-F0F0-4128-B748-A7DF756B12E9}|DeleteData\\DeleteData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\deletedata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C66B838-F0F0-4128-B748-A7DF756B12E9}|DeleteData\\DeleteData.csproj|solutionrelative:deletedata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\insertdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|solutionrelative:insertdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\insertdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|solutionrelative:insertdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\insertdata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|solutionrelative:insertdata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\insertdata\\insertdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|solutionrelative:insertdata\\insertdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02F3A71-1484-47DE-902D-95DA3BE672E3}|RetrieveSingleItem\\RetrieveSingleItem.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\retrievesingleitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02F3A71-1484-47DE-902D-95DA3BE672E3}|RetrieveSingleItem\\RetrieveSingleItem.csproj|solutionrelative:retrievesingleitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2EA64B6-7154-44E7-AABA-C964EF87D385}|ImplementTransactions\\ImplementTransactions.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\implementtransactions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2EA64B6-7154-44E7-AABA-C964EF87D385}|ImplementTransactions\\ImplementTransactions.csproj|solutionrelative:implementtransactions\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2EA64B6-7154-44E7-AABA-C964EF87D385}|ImplementTransactions\\ImplementTransactions.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\implementtransactions\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2EA64B6-7154-44E7-AABA-C964EF87D385}|ImplementTransactions\\ImplementTransactions.csproj|solutionrelative:implementtransactions\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,18 +55,6 @@
       "RelativeMoniker": "D:0:0:{772D1992-FA6E-472A-8E98-FBBD6B1A9434}|QueryData\\QueryData.csproj|solutionrelative:querydata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\insertdata\\insertdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|solutionrelative:insertdata\\insertdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\insertdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|solutionrelative:insertdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\insertdata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|solutionrelative:insertdata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3C66B838-F0F0-4128-B748-A7DF756B12E9}|DeleteData\\DeleteData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\deletedata\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C66B838-F0F0-4128-B748-A7DF756B12E9}|DeleteData\\DeleteData.csproj|solutionrelative:deletedata\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3C66B838-F0F0-4128-B748-A7DF756B12E9}|DeleteData\\DeleteData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\deletedata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C66B838-F0F0-4128-B748-A7DF756B12E9}|DeleteData\\DeleteData.csproj|solutionrelative:deletedata\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\insertdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|solutionrelative:insertdata\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{703DF21F-9F3E-4581-AE48-7DE606CE2B56}|InsertData\\InsertData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\insertdata\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -73,10 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7787E99D-B354-43BC-87CC-4B0750B7ADFC}|UpdateData\\UpdateData.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\updatedata\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7787E99D-B354-43BC-87CC-4B0750B7ADFC}|UpdateData\\UpdateData.csproj|solutionrelative:updatedata\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B02F3A71-1484-47DE-902D-95DA3BE672E3}|RetrieveSingleItem\\RetrieveSingleItem.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\retrievesingleitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B02F3A71-1484-47DE-902D-95DA3BE672E3}|RetrieveSingleItem\\RetrieveSingleItem.csproj|solutionrelative:retrievesingleitem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B02F3A71-1484-47DE-902D-95DA3BE672E3}|RetrieveSingleItem\\RetrieveSingleItem.csproj|c:\\users\\training.3\\source\\repos\\ef05.dataaccess\\retrievesingleitem\\retrievesingleitem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -138,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -166,7 +174,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\DeleteData\\appsettings.json",
+              "RelativeDocumentMoniker": "DeleteData\\appsettings.json",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\DeleteData\\appsettings.json",
+              "RelativeToolTip": "DeleteData\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T11:13:39.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\ImplementTransactions\\appsettings.json",
+              "RelativeDocumentMoniker": "ImplementTransactions\\appsettings.json",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\ImplementTransactions\\appsettings.json",
+              "RelativeToolTip": "ImplementTransactions\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T10:54:33.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\ImplementTransactions\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ImplementTransactions\\AppDbContext.cs",
@@ -174,12 +208,11 @@
               "RelativeToolTip": "ImplementTransactions\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:56:12.847Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:56:12.847Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Wallet.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\ImplementTransactions\\Wallet.cs",
               "RelativeDocumentMoniker": "ImplementTransactions\\Wallet.cs",
@@ -192,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\ImplementTransactions\\Program.cs",
               "RelativeDocumentMoniker": "ImplementTransactions\\Program.cs",
@@ -200,12 +233,11 @@
               "RelativeToolTip": "ImplementTransactions\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:54:48.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:54:48.754Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Wallet.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\QueryData\\Wallet.cs",
               "RelativeDocumentMoniker": "QueryData\\Wallet.cs",
@@ -213,12 +245,11 @@
               "RelativeToolTip": "QueryData\\Wallet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:49:56.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:49:56.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\QueryData\\AppDbContext.cs",
               "RelativeDocumentMoniker": "QueryData\\AppDbContext.cs",
@@ -226,12 +257,11 @@
               "RelativeToolTip": "QueryData\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:49:48.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:49:48.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\QueryData\\Program.cs",
               "RelativeDocumentMoniker": "QueryData\\Program.cs",
@@ -239,12 +269,11 @@
               "RelativeToolTip": "QueryData\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:48:20.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:48:20.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Wallet.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\DeleteData\\Wallet.cs",
               "RelativeDocumentMoniker": "DeleteData\\Wallet.cs",
@@ -252,12 +281,11 @@
               "RelativeToolTip": "DeleteData\\Wallet.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:45:29.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:45:29.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\DeleteData\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DeleteData\\AppDbContext.cs",
@@ -265,12 +293,11 @@
               "RelativeToolTip": "DeleteData\\AppDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:45:15.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:45:15.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\DeleteData\\Program.cs",
               "RelativeDocumentMoniker": "DeleteData\\Program.cs",
@@ -278,12 +305,11 @@
               "RelativeToolTip": "DeleteData\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:42:57.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:42:57.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\UpdateData\\appsettings.json",
               "RelativeDocumentMoniker": "UpdateData\\appsettings.json",
@@ -291,12 +317,11 @@
               "RelativeToolTip": "UpdateData\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-16T12:37:15.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:37:15.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Wallet.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\UpdateData\\Wallet.cs",
               "RelativeDocumentMoniker": "UpdateData\\Wallet.cs",
@@ -304,12 +329,11 @@
               "RelativeToolTip": "UpdateData\\Wallet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:37:03.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:37:03.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\UpdateData\\AppDbContext.cs",
               "RelativeDocumentMoniker": "UpdateData\\AppDbContext.cs",
@@ -317,12 +341,11 @@
               "RelativeToolTip": "UpdateData\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:35:52.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:35:52.346Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\UpdateData\\Program.cs",
               "RelativeDocumentMoniker": "UpdateData\\Program.cs",
@@ -330,12 +353,11 @@
               "RelativeToolTip": "UpdateData\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:35:26.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:35:26.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Wallet.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\InsertData\\Wallet.cs",
               "RelativeDocumentMoniker": "InsertData\\Wallet.cs",
@@ -343,12 +365,11 @@
               "RelativeToolTip": "InsertData\\Wallet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:31:00.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:31:00.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\InsertData\\AppDbContext.cs",
               "RelativeDocumentMoniker": "InsertData\\AppDbContext.cs",
@@ -361,8 +382,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "InsertData",
+              "DocumentIndex": 4,
+              "Title": "InsertData.csproj",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\InsertData\\InsertData.csproj",
               "RelativeDocumentMoniker": "InsertData\\InsertData.csproj",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\InsertData\\InsertData.csproj",
@@ -374,33 +395,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\InsertData\\appsettings.json",
               "RelativeDocumentMoniker": "InsertData\\appsettings.json",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\InsertData\\appsettings.json",
               "RelativeToolTip": "InsertData\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-16T12:30:42.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\InsertData\\Program.cs",
               "RelativeDocumentMoniker": "InsertData\\Program.cs",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\InsertData\\Program.cs",
               "RelativeToolTip": "InsertData\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T12:29:23.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveSingleItem\\appsettings.json",
               "RelativeDocumentMoniker": "RetrieveSingleItem\\appsettings.json",
@@ -408,12 +429,11 @@
               "RelativeToolTip": "RetrieveSingleItem\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-16T12:20:13.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:20:13.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Wallet.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveSingleItem\\Wallet.cs",
               "RelativeDocumentMoniker": "RetrieveSingleItem\\Wallet.cs",
@@ -421,12 +441,11 @@
               "RelativeToolTip": "RetrieveSingleItem\\Wallet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:20:00.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:20:00.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveSingleItem\\AppDbContext.cs",
               "RelativeDocumentMoniker": "RetrieveSingleItem\\AppDbContext.cs",
@@ -434,38 +453,36 @@
               "RelativeToolTip": "RetrieveSingleItem\\AppDbContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAhwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:19:48.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:19:48.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "RetrieveSingleItem",
+              "DocumentIndex": 21,
+              "Title": "RetrieveSingleItem.csproj",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveSingleItem\\RetrieveSingleItem.csproj",
               "RelativeDocumentMoniker": "RetrieveSingleItem\\RetrieveSingleItem.csproj",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveSingleItem\\RetrieveSingleItem.csproj",
               "RelativeToolTip": "RetrieveSingleItem\\RetrieveSingleItem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-16T12:19:45.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:19:45.751Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveSingleItem\\Program.cs",
               "RelativeDocumentMoniker": "RetrieveSingleItem\\Program.cs",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveSingleItem\\Program.cs",
               "RelativeToolTip": "RetrieveSingleItem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-16T12:18:45.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "Wallet.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveData\\Wallet.cs",
               "RelativeDocumentMoniker": "RetrieveData\\Wallet.cs",
@@ -473,12 +490,11 @@
               "RelativeToolTip": "RetrieveData\\Wallet.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:12:37.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:12:37.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveData\\AppDbContext.cs",
               "RelativeDocumentMoniker": "RetrieveData\\AppDbContext.cs",
@@ -486,25 +502,23 @@
               "RelativeToolTip": "RetrieveData\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:11:34.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:11:34.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "RetrieveData",
+              "DocumentIndex": 31,
+              "Title": "RetrieveData.csproj",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveData\\RetrieveData.csproj",
               "RelativeDocumentMoniker": "RetrieveData\\RetrieveData.csproj",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveData\\RetrieveData.csproj",
               "RelativeToolTip": "RetrieveData\\RetrieveData.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-16T12:10:59.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:10:59.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\RetrieveData\\Program.cs",
               "RelativeDocumentMoniker": "RetrieveData\\Program.cs",
@@ -512,12 +526,11 @@
               "RelativeToolTip": "RetrieveData\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:10:40.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:10:40.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\SetupEFCoreModel\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SetupEFCoreModel\\AppDbContext.cs",
@@ -525,12 +538,11 @@
               "RelativeToolTip": "SetupEFCoreModel\\AppDbContext.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAowA0AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T12:04:54.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T12:04:54.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "Wallet.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\SetupEFCoreModel\\Wallet.cs",
               "RelativeDocumentMoniker": "SetupEFCoreModel\\Wallet.cs",
@@ -538,25 +550,23 @@
               "RelativeToolTip": "SetupEFCoreModel\\Wallet.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA5wBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T11:59:05.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T11:59:05.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SetupEFCoreModel",
+              "DocumentIndex": 26,
+              "Title": "SetupEFCoreModel.csproj",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\SetupEFCoreModel\\SetupEFCoreModel.csproj",
               "RelativeDocumentMoniker": "SetupEFCoreModel\\SetupEFCoreModel.csproj",
               "ToolTip": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\SetupEFCoreModel\\SetupEFCoreModel.csproj",
               "RelativeToolTip": "SetupEFCoreModel\\SetupEFCoreModel.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-16T11:54:41.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T11:54:41.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\SetupEFCoreModel\\appsettings.json",
               "RelativeDocumentMoniker": "SetupEFCoreModel\\appsettings.json",
@@ -564,12 +574,11 @@
               "RelativeToolTip": "SetupEFCoreModel\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-16T11:51:56.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T11:51:56.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\EF05.DataAccess\\SetupEFCoreModel\\Program.cs",
               "RelativeDocumentMoniker": "SetupEFCoreModel\\Program.cs",
@@ -577,8 +586,7 @@
               "RelativeToolTip": "SetupEFCoreModel\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T11:51:29.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-16T11:51:29.094Z"
             }
           ]
         }
